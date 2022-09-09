@@ -28,7 +28,6 @@ The project directory architecture follows as illustrated below:
 | TrabalhoPratico1 |  |  |  |
 :---: | :---: | :---: | :---:
 | :arrow_right_hook: | __main.pdf__ |  |  |
-| :arrow_right_hook: | __venv__ |  |  |
 | :arrow_right_hook: | __cliente__ |  |  |
 |  | :arrow_right_hook: | __cliente_tcp.py__ |  |
 |  | :arrow_right_hook: | __diretorio_cliente__ |  |
@@ -48,7 +47,7 @@ The project directory architecture follows as illustrated below:
 |  |  | :arrow_right_hook: | __Swimming....mp3__ |
 |  |  | :arrow_right_hook: | __Summer_S....mp3__ |
 
-The directory `diretorio_cliente` was created but the user has the possibility to choose the directory to which he wants to save the file by giving the appropriate command. and the directory `venv` is created by the IDE as a virtual environment for the project containing dependency files.
+The directory `diretorio_cliente` was created but the user has the possibility to choose the directory to which he wants to save the file by giving the appropriate command.
 
 ### Code and operation
 
