@@ -51,14 +51,14 @@ The directory `diretorio_cliente` was created but the user has the possibility t
 
 ### Code and operation
 
-The TCP server implementation can be seen at the link: [servidor_tcp.py](https://github.com/Santos-Everton/TrabalhoPratico1/blob/main/servidor/servidor_tcp.py). 
+The TCP server implementation can be seen at the link: <a href="https://github.com/Santos-Everton/TrabalhoPratico1/blob/main/servidor/servidor_tcp.py" target="_blank">servidor_tcp.py</a>. 
 The server creates a _socket_ to listen on a specific port passed as a parameter.
 ```
 % servidor_tcp.py PORT
 ```
 This is basically the only command that needs to be given to run the server.
 
-The TCP client implementation can be seen at the link: [cliente_tcp.py](https://github.com/Santos-Everton/TrabalhoPratico1/blob/main/cliente/cliente_tcp.py).
+The TCP client implementation can be seen at the link: <a href="https://github.com/Santos-Everton/TrabalhoPratico1/blob/main/cliente/cliente_tcp.py" target="_blank">cliente_tcp.py</a>.
 The client connects to the server by sending the request for a file. The client side receives 5 parameters - the IP of the server, the port of the server, the execution command, the file to be requested and the file saving directory. In addition to the command to download the file, two other commands can be given, one to list the files present on the server and another to see the commands that can be given on the server by the client, as a _help_ system.
 The command structure is as follows:
 ```
@@ -74,4 +74,4 @@ The command structure is as follows:
 All error handling appropriate to the problem has been done. For example: no connection to the server, file not found, invalid command.
 
 ### Considerations
-The file [main.pdf](https://github.com/Santos-Everton/TrabalhoPratico1/blob/main/main.pdf) contains the specifications for the development of this project with the _plus_ requested by the teacher in the server being multi-threaded and the command to list the files of the server. In addition, a video presenting the operation of this project can be viewed at [video](https://youtu.be/FbDiq5EtylA).
+The file <a href="https://github.com/Santos-Everton/TrabalhoPratico1/blob/main/main.pdf" target="_blank">main.pdf</a> contains the specifications for the development of this project with the _plus_ requested by the teacher in the server being multi-threaded and the command to list the files of the server. In addition, a video presenting the operation of this project can be viewed at <a href="https://youtu.be/FbDiq5EtylA" target="_blank">video</a>.
