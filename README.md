@@ -74,4 +74,4 @@ The command structure is as follows:
 All error handling appropriate to the problem has been done. For example: no connection to the server, file not found, invalid command.
 
 ### Considerations
-The file [main.pdf](https://github.com/Santos-Everton/TrabalhoPratico1/blob/main/main.pdf) contains the specifications for the development of this project with the _plus_ requested by the teacher in the server being multi-threaded and the command to list the files of the server. In addition, a video presenting the operation of this project can be viewed at [Link do Video]().
+The file [main.pdf](https://github.com/Santos-Everton/TrabalhoPratico1/blob/main/main.pdf) contains the specifications for the development of this project with the _plus_ requested by the teacher in the server being multi-threaded and the command to list the files of the server. In addition, a video presenting the operation of this project can be viewed at [video](https://youtu.be/FbDiq5EtylA).
